@@ -1,0 +1,15 @@
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\bin\Debug\net6.0\DZ41.exe
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\bin\Debug\net6.0\DZ41.deps.json
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\bin\Debug\net6.0\DZ41.runtimeconfig.json
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\bin\Debug\net6.0\DZ41.dll
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\bin\Debug\net6.0\DZ41.pdb
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.csproj.AssemblyReference.cache
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.AssemblyInfoInputs.cache
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.AssemblyInfo.cs
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.csproj.CoreCompileInputs.cache
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.dll
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\refint\DZ41.dll
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.pdb
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\DZ41.genruntimeconfig.cache
+C:\Users\Samael Will\Desktop\Общее ДЗ\DZ0001\DZ41\obj\Debug\net6.0\ref\DZ41.dll
